@@ -47,8 +47,7 @@ Dive into this repository to unveil captivating insights into how car features s
 
 ## Video Report 
 Explore this video to get a concise yet comprehensive overview of the project.
-
-
+[![Project_Video](https://github.com/SuruchiMandal/Car_Feature_Influence_on_Pricing_and_Profitability/blob/main/Car%20Feature%20influence%20on%20Price%20and%20Profitability%20thumbnail.png)](https://www.loom.com/share/ae2cf4f0a1fa427a8e3a8b7fa71e7a11?sid=46a51e2b-e48e-486c-9fe4-b3f8ae58ffab)]
 
 
 
